@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\code.VoMinhMan\NET1709\Session1-Introduction\Vominhman.CsIntro\Vominhman.CsIntro.LanguageIntro\bin\Debug\net6.0\Vominhman.CsIntro.LanguageIntro.exe
+C:\Users\Acer\Desktop\code.VoMinhMan\NET1709\Session1-Introduction\Vominhman.CsIntro\Vominhman.CsIntro.LanguageIntro\bin\Debug\net6.0\Vominhman.CsIntro.LanguageIntro.deps.json
+C:\Users\Acer\Desktop\code.VoMinhMan\NET1709\Session1-Introduction\Vominhman.CsIntro\Vominhman.CsIntro.LanguageIntro\bin\Debug\net6.0\Vominhman.CsIntro.LanguageIntro.runtimeconfig.json
+C:\Users\Acer\Desktop\code.VoMinhMan\NET1709\Session1-Introduction\Vominhman.CsIntro\Vominhman.CsIntro.LanguageIntro\bin\Debug\net6.0\Vominhman.CsIntro.LanguageIntro.dll
+C:\Users\Acer\Desktop\code.VoMinhMan\NET1709\Session1-Introduction\Vominhman.CsIntro\Vominhman.CsIntro.LanguageIntro\bin\Debug\net6.0\Vominhman.CsIntro.LanguageIntro.pdb
+C:\Users\Acer\Desktop\code.VoMinhMan\NET1709\Session1-Introduction\Vominhman.CsIntro\Vominhman.CsIntro.LanguageIntro\obj\Debug\net6.0\Vominhman.CsIntro.LanguageIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\code.VoMinhMan\NET1709\Session1-Introduction\Vominhman.CsIntro\Vominhman.CsIntro.LanguageIntro\obj\Debug\net6.0\Vominhman.CsIntro.LanguageIntro.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\code.VoMinhMan\NET1709\Session1-Introduction\Vominhman.CsIntro\Vominhman.CsIntro.LanguageIntro\obj\Debug\net6.0\Vominhman.CsIntro.LanguageIntro.AssemblyInfo.cs
+C:\Users\Acer\Desktop\code.VoMinhMan\NET1709\Session1-Introduction\Vominhman.CsIntro\Vominhman.CsIntro.LanguageIntro\obj\Debug\net6.0\Vominhman.CsIntro.LanguageIntro.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\code.VoMinhMan\NET1709\Session1-Introduction\Vominhman.CsIntro\Vominhman.CsIntro.LanguageIntro\obj\Debug\net6.0\Vominhman.CsIntro.LanguageIntro.dll
+C:\Users\Acer\Desktop\code.VoMinhMan\NET1709\Session1-Introduction\Vominhman.CsIntro\Vominhman.CsIntro.LanguageIntro\obj\Debug\net6.0\refint\Vominhman.CsIntro.LanguageIntro.dll
+C:\Users\Acer\Desktop\code.VoMinhMan\NET1709\Session1-Introduction\Vominhman.CsIntro\Vominhman.CsIntro.LanguageIntro\obj\Debug\net6.0\Vominhman.CsIntro.LanguageIntro.pdb
+C:\Users\Acer\Desktop\code.VoMinhMan\NET1709\Session1-Introduction\Vominhman.CsIntro\Vominhman.CsIntro.LanguageIntro\obj\Debug\net6.0\Vominhman.CsIntro.LanguageIntro.genruntimeconfig.cache
+C:\Users\Acer\Desktop\code.VoMinhMan\NET1709\Session1-Introduction\Vominhman.CsIntro\Vominhman.CsIntro.LanguageIntro\obj\Debug\net6.0\ref\Vominhman.CsIntro.LanguageIntro.dll
